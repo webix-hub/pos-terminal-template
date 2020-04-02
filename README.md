@@ -3,7 +3,7 @@ Webix POS Terminal Template
 
 Check the POS terminal web template for the Webix UI library. 
 
-[POS Terminal live demo](https://webix-hub.github.io/pos-terminal-template/dist/es5/index.html).
+[POS Terminal live demo](https://webix-hub.github.io/pos-terminal-template/dist/es5/).
 
 Use this template as a part of a marketplace solution with the following features:
 
