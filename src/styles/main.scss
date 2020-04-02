@@ -1,0 +1,24 @@
+
+@import "bag";
+@import "topToolbar";
+@import "productsGrid";
+@import "calculator";
+
+.font-18{
+    font-size: 18px;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.blue-thick-border{
+    background-color: #1CA1C1;
+}
+
+.breadcrumbs-chunk {
+    &:hover {
+        cursor: pointer;
+        color: #1CA1C1;
+    }
+}

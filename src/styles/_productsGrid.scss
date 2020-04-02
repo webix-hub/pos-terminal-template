@@ -1,0 +1,34 @@
+.products-grid{
+    background-color: #f4f5f9;
+    .webix_dataview_item.tiles {
+        .webix_dataview_inner_item {            
+            padding: 0px;            
+        }
+    }
+} 
+
+.grid-item{
+    position: relative;
+    box-sizing: border-box;
+    height: 100%;
+    background: center center /70% no-repeat #fff;
+
+    .grid-item-title,
+    .grid-item-weight{
+        position: absolute;
+    }
+
+    .grid-item-weight{
+        right: 0;
+        top: 0;
+        padding: 0 3px;
+        color: #fff;
+        background-color: #1CA1C1;
+    }
+
+    .grid-item-title{
+        left: 4px;
+        bottom: 2px;
+    }
+}
+

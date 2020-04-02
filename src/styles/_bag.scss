@@ -1,0 +1,20 @@
+.bag-item{
+    padding-top: 3px;
+    line-height: normal;
+    .bag-item-total{
+        float: right;
+    }
+    .bag-item-details{
+        padding: 3px 0 0 10px;
+    }
+}
+
+.total .webix_template {
+    padding-right: 0px;
+    .total-info{
+        float: right;
+        border-top: 2px solid #475466;
+        padding-top: 5px;
+        text-align: right;
+    }
+}
